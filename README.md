@@ -21,7 +21,7 @@ itsmyscreen is a React 18 + Vite single-page prototype for a premium concert boo
 ## Setup
 
 ```bash
-npm install
+npm install 
 npm run dev
 ```
 
